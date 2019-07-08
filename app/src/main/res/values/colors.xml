@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#cdd2d2</color>
+    <color name="colorPrimaryDark">#9c9f9f</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorgray">#9e9e9e</color>
+    <color name="lawngreen">#7CFC00</color><!--草绿色 -->
+    <color name="red">#FF0000</color><!--红色 -->
+</resources>
